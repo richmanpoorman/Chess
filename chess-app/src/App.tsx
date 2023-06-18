@@ -1,4 +1,4 @@
-import Message from './Test/TestMessage'
+import Message from './TestMessage'
 
 function App() {
   return <div><Message/></div>;
